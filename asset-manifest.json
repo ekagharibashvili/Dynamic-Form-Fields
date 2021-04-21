@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/Dynamic-Form-Fields/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Dynamic-Form-Fields/static/js/main.afdc6f94.chunk.js",
-    "main.js.map": "/Dynamic-Form-Fields/static/js/main.afdc6f94.chunk.js.map",
-    "runtime-main.js": "/Dynamic-Form-Fields/static/js/runtime-main.5866b831.js",
-    "runtime-main.js.map": "/Dynamic-Form-Fields/static/js/runtime-main.5866b831.js.map",
-    "static/js/2.b19a4018.chunk.js": "/Dynamic-Form-Fields/static/js/2.b19a4018.chunk.js",
-    "static/js/2.b19a4018.chunk.js.map": "/Dynamic-Form-Fields/static/js/2.b19a4018.chunk.js.map",
-    "static/js/3.9b53f5b1.chunk.js": "/Dynamic-Form-Fields/static/js/3.9b53f5b1.chunk.js",
-    "static/js/3.9b53f5b1.chunk.js.map": "/Dynamic-Form-Fields/static/js/3.9b53f5b1.chunk.js.map",
+    "main.js": "/Dynamic-Form-Fields/static/js/main.fecf5500.chunk.js",
+    "main.js.map": "/Dynamic-Form-Fields/static/js/main.fecf5500.chunk.js.map",
+    "runtime-main.js": "/Dynamic-Form-Fields/static/js/runtime-main.e631c713.js",
+    "runtime-main.js.map": "/Dynamic-Form-Fields/static/js/runtime-main.e631c713.js.map",
+    "static/js/2.302026ba.chunk.js": "/Dynamic-Form-Fields/static/js/2.302026ba.chunk.js",
+    "static/js/2.302026ba.chunk.js.map": "/Dynamic-Form-Fields/static/js/2.302026ba.chunk.js.map",
     "index.html": "/Dynamic-Form-Fields/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Dynamic-Form-Fields/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b19a4018.chunk.js.LICENSE.txt": "/Dynamic-Form-Fields/static/js/2.b19a4018.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Dynamic-Form-Fields/static/media/logo.6ce24c58.svg"
+    "static/js/2.302026ba.chunk.js.LICENSE.txt": "/Dynamic-Form-Fields/static/js/2.302026ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5866b831.js",
-    "static/js/2.b19a4018.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.afdc6f94.chunk.js"
+    "static/js/runtime-main.e631c713.js",
+    "static/js/2.302026ba.chunk.js",
+    "static/js/main.fecf5500.chunk.js"
   ]
 }
